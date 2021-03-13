@@ -1,0 +1,12 @@
+# Recipe (MakeRecipe) for S6-RC by Nuc1eoN, on Fri 12 Mar 2021 03:13:09 AM CET
+# Recipe for version 0.5.2.1 by Nuc1eoN, on Fri 12 Mar 2021 03:13:09 AM CET
+compile_version=017-GIT
+url="http://skarnet.org/software/s6-rc/s6-rc-0.5.2.1.tar.gz"
+file_size=98184
+file_md5=0fbee215343fda8ccdfcc4c9817d18ff
+dir='s6-rc-0.5.2.1'
+recipe_type=configure
+configure_options=(
+	--enable-shared
+	--disable-allstatic
+)

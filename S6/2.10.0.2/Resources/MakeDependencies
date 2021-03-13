@@ -1,0 +1,2 @@
+SkaLibs >= 2.10.0.2
+ExecLine >= 2.7.0.1 #Execline support is optional but it is the default

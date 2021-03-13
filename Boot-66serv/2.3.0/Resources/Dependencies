@@ -1,0 +1,17 @@
+ExecLine >= 2.7.0.0
+S6 >= 2.10.0.0
+S6-RC >= 0.5.2.1
+66 >= 0.6.0.0
+66-Tools >= 0.0.7.0
+S6-Linux-Utils >= 2.5.1.4
+S6-Portable-Utils >= 2.2.3.1
+Bash
+IPRoute2
+Kmod
+
+# Optional:
+# Iptables/Nftables/EBTables/ARPtables
+# Dmraid
+# LVM2
+# BTRFS-Progs
+# ZFS

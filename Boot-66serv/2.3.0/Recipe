@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for Boot-66serv by Nuc1eoN, on Sat 13 Mar 2021 01:09:33 AM CET
+# Recipe for version 2.3.0 by Nuc1eoN, on Sat 13 Mar 2021 01:09:33 AM CET
+compile_version=017-GIT
+url="https://framagit.org/pkg/obmods/boot-66serv/-/archive/v2.3.0/boot-66serv-v2.3.0.tar.gz"
+file_size=26844
+file_md5=b419df527af82cef12b16babd6fec590
+dir='boot-66serv-v2.3.0'
+recipe_type=configure
