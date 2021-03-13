@@ -1,0 +1,12 @@
+# Recipe (MakeRecipe) for S6 by Nuc1eoN, on Fri 12 Mar 2021 03:00:27 AM CET
+# Recipe for version 2.10.0.2 by Nuc1eoN, on Fri 12 Mar 2021 03:00:27 AM CET
+compile_version=017-GIT
+url="http://skarnet.org/software/s6/s6-2.10.0.2.tar.gz"
+file_size=218590
+file_md5=f856c571f7cbbf1ec10cbb948a1c365b
+dir='s6-2.10.0.2'
+recipe_type=configure
+configure_options=(
+	--enable-shared
+	--disable-allstatic
+)

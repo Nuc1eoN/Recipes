@@ -1,0 +1,12 @@
+# Recipe (MakeRecipe) for Execline by Nuc1eoN, on Fri 12 Mar 2021 02:43:19 AM CET
+# Recipe for version 2.8.0.0 by Nuc1eoN, on Fri 12 Mar 2021 02:43:19 AM CET
+compile_version=017-GIT
+url="http://skarnet.org/software/execline/execline-2.8.0.0.tar.gz"
+file_size=94858
+file_md5=b3de6552479ad84ef7d22f98135496a1
+dir='execline-2.8.0.0'
+recipe_type=configure
+configure_options=(
+	--enable-shared
+	--disable-allstatic
+)

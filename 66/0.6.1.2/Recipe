@@ -1,0 +1,12 @@
+# Recipe (MakeRecipe) for 66 by Nuc1eoN, on Fri 12 Mar 2021 04:46:55 AM CET
+# Recipe for version 0.6.1.2 by Nuc1eoN, on Fri 12 Mar 2021 04:46:55 AM CET
+compile_version=017-GIT
+url="https://framagit.org/Obarun/66/-/archive/v0.6.1.2/66-v0.6.1.2.tar.gz"
+file_size=196266
+file_md5=e86559a06d2fab2b436b109d2e855b8d
+dir='66-v0.6.1.2'
+recipe_type=configure
+configure_options=(
+	--enable-shared
+	--disable-allstatic
+)

@@ -1,0 +1,9 @@
+# Recipe (MakeRecipe) for Skalibs by Nuc1eoN, on Fri 12 Mar 2021 01:59:30 AM CET
+# Recipe for version 2.10.0.2 by Nuc1eoN, on Fri 12 Mar 2021 01:59:30 AM CET
+compile_version=017-GIT
+url="http://skarnet.org/software/skalibs/skalibs-2.10.0.2.tar.gz"
+file_size=232787
+file_md5=e7b9f44eb22871d72f70212a67a12db8
+dir='skalibs-2.10.0.2'
+recipe_type=configure
+configure_options=(--disable-static)

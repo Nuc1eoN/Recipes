@@ -1,0 +1,8 @@
+# Recipe (MakeRecipe) for LowDown by Nuc1eoN, on Fri 12 Mar 2021 04:19:33 AM CET
+# Recipe for version 0.8.2 by Nuc1eoN, on Fri 12 Mar 2021 04:19:33 AM CET
+compile_version=017-GIT
+url="https://kristaps.bsd.lv/lowdown/snapshots/lowdown-0.8.2.tar.gz"
+file_size=200720
+file_md5=9b9f04cf253d8e0f156cd8b81bbf3730
+dir='lowdown-0.8.2'
+recipe_type=configure

@@ -1,0 +1,12 @@
+# Recipe (MakeRecipe) for S6-Linux-Utils by Nuc1eoN, on Sat 13 Mar 2021 12:38:51 AM CET
+# Recipe for version 2.5.1.4 by Nuc1eoN, on Sat 13 Mar 2021 12:38:51 AM CET
+compile_version=017-GIT
+url="http://skarnet.org/software/s6-linux-utils/s6-linux-utils-2.5.1.4.tar.gz"
+file_size=35526
+file_md5=030b3e780ebfd05cffc484856df64a79
+dir='s6-linux-utils-2.5.1.4'
+recipe_type=configure
+configure_options=(
+	--enable-shared
+	--disable-allstatic
+)

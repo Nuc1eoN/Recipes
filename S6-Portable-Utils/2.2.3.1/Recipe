@@ -1,0 +1,12 @@
+# Recipe (MakeRecipe) for S6-Portable-Utils by Nuc1eoN, on Sat 13 Mar 2021 01:01:00 AM CET
+# Recipe for version 2.2.3.1 by Nuc1eoN, on Sat 13 Mar 2021 01:01:00 AM CET
+compile_version=017-GIT
+url="https://skarnet.org/software/s6-portable-utils/s6-portable-utils-2.2.3.1.tar.gz"
+file_size=49264
+file_md5=26c8d859ebbb7ff4a0e16c826ddefb34
+dir='s6-portable-utils-2.2.3.1'
+recipe_type=configure
+configure_options=(
+	--enable-shared
+	--disable-allstatic
+)
