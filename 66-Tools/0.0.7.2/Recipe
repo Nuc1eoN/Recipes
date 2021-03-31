@@ -1,0 +1,12 @@
+# Recipe for version 0.0.7.2 by Nuc1eoN, on Wed 31 Mar 2021 11:53:17 PM GMT
+# Recipe (MakeRecipe) for 66-Tools by Nuc1eoN, on Fri 12 Mar 2021 04:49:10 AM CET
+compile_version=017-GIT
+url="https://framagit.org/Obarun/66-tools/-/archive/v0.0.7.2/66-tools-v0.0.7.2.tar.gz"
+file_size=56682
+file_md5=c568cd93d88d0016a1e0a99d8f5b92df
+dir='66-tools-v0.0.7.2'
+recipe_type=configure
+configure_options=(
+	--disable-allstatic
+	--enable-shared
+)
